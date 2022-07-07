@@ -1,5 +1,6 @@
 #### gbnzt
 
+* 由于该项目公司在用,源码不方便开放.
 
 ```
   gbnzt是一个gin和vue-admin-template框架的游戏中台系统,主要功能:
