@@ -1,4 +1,4 @@
-#### gbnzt
+#### bnzt
 
 * 由于该项目公司在用,源码不方便开放.
 
@@ -13,6 +13,7 @@
     - yum install sshpass svn rsync
     - mkdir -p /data/game
     - 使用指定的用户名启动
+
 ```
 
 
