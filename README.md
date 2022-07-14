@@ -18,7 +18,7 @@
 
 
 * **展示图**
-* ![alt text](imgs/interface.png)
+* ![alt text](imgs/ite.png)
 * ![alt text](imgs/login.png)
 * ![alt text](imgs/user.png)
 * ![alt text](imgs/role.png)
